@@ -3,8 +3,8 @@ import kivy
 from kivy.app import App
 from kivy.uix.button import Button
 
-# Inisialisasi Kivy (opsional)
-kivy.require('1.11.1')
+# # Inisialisasi Kivy (opsional)
+# kivy.require('1.11.1')
 
 # Aplikasi Kivy yang sederhana
 class SimpleKivyApp(App):
